@@ -1,0 +1,19 @@
+.container__NewCustomer {
+  margin-left: 10rem;
+  ul {
+    li:last-child {
+      margin-top: 2rem;
+    }
+    list-style: none;
+    line-height: 2rem;
+    li {
+      input {
+        width: 30rem;
+        border-left: 10px solid rgb(235, 0, 0);
+      }
+      label {
+        display: block;
+      }
+    }
+  }
+}

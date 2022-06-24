@@ -1,0 +1,17 @@
+.container__header--menuCustomer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+    ul{
+        list-style: none;
+        display: flex;
+        li{
+            margin-right: 3rem;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+           
+        }
+    }
+
+}
